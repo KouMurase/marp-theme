@@ -1,11 +1,11 @@
-/* @theme test */
+/* @theme test2 */
 
 @import 'gaia';
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 
 :root {
-  --color-background: #f2ebd1;
+  --color-background: #6b654f;
   --color-foreground: #333;
   --color-highlight: #008080;
 }
