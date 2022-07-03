@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: academic
+theme: test
 paginate: true
 math: latex
 footer: "2022/6/30 岡田研究室ゼミ資料"
