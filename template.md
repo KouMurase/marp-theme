@@ -63,7 +63,7 @@ footer: "2022/6/30 岡田研究室ゼミ資料"
 今回登場するヴィランはバットマンシリーズでお馴染みの
 クリスチャンベイルが演じるみたいです。
 
-![left height:185px](./figs/gorr_the_god_butcher.jpg) ![right height:185px](/figs/maxresdefault.jpg)
+![left height:285px](./figs/gorr_the_god_butcher.jpg) ![right height:285px](./figs/maxresdefault.jpg)
 
 
 > https://www.youtube.com/watch?v=TAXHwN-ylC4
