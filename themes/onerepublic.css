@@ -7,7 +7,7 @@
 :root {
   --color-background: #e1d4e2;
   --color-foreground: #333;
-  --color-highlight: #008080;
+  --color-highlight: #462849;
 }
 
 section {
@@ -75,7 +75,7 @@ header {
 }
 
 footer {
-    background-color: #a858a4;
+    background-color: #489cb9;
     color: #fff;
     font-size: 1em;
     font-weight: 700;
