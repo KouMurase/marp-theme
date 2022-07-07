@@ -74,13 +74,6 @@ header {
   font-weight: 700;
 }
 
-footer {
-    background-color: #489cb9;
-    color: #fff;
-    font-size: 1em;
-    font-weight: 700;
-  }
-
 blockquote {
   max-width: 90%;
   border-top: 0.1em dashed #555;
