@@ -5,7 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 
 :root {
-  --color-background: #e1d4e2;
+  --color-background: #fff;
   --color-foreground: #333;
   --color-highlight: #462849;
 }
@@ -73,6 +73,13 @@ header {
   font-size: 1em;
   font-weight: 700;
 }
+
+footer {
+    background-color: #489cb9;
+    color: #fff;
+    font-size: 1em;
+    font-weight: 700;
+  }
 
 blockquote {
   max-width: 90%;
