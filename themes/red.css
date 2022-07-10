@@ -7,7 +7,7 @@
 :root {
   --color-background: #fff;
   --color-foreground: #333;
-  --color-highlight: #ec627d;
+  --color-highlight: #cf173c;
 }
 
 section {
@@ -29,25 +29,25 @@ ul ul {
 }
 
 section.lead h1 {
-  color: #ec627d;
+  color: #cf173c;
   text-align: left;
 }
 section.lead h1 strong {
-  -webkit-text-stroke: 1px #ec627d;
+  -webkit-text-stroke: 1px #cf173c;
 }
 section.lead h2 {
-  color: #ec627d;
+  color: #cf173c;
   text-align: left;
 }
 section.lead h2 strong {
-  -webkit-text-stroke: 1px #ec627d;
+  -webkit-text-stroke: 1px #cf173c;
 }
 section.lead h3 {
-  color: #ec627d;
+  color: #cf173c;
   text-align: left;
 }
 section.lead h3 strong {
-  -webkit-text-stroke: 1px #ec627d;
+  -webkit-text-stroke: 1px #cf173c;
 }
 section.lead h4 {
   color: #ec627d;
@@ -57,18 +57,18 @@ section.lead h4 strong {
   -webkit-text-stroke: 1px #ec627d;
 }
 section.lead h5 {
-  color: #ec627d;
+  color: #cf173c;
   text-align: left;
 }
 section.lead h5 strong {
-  -webkit-text-stroke: 1px #ec627d;
+  -webkit-text-stroke: 1px #cf173c;
 }
 section.lead p {
   text-align: right;
 }
 
 header {
-  background-color: #ec627d;
+  background-color: #cf173c;
   color: #fff;
   font-size: 1em;
   font-weight: 700;
