@@ -77,7 +77,7 @@ header {
 
 blockquote {
   max-width: 90%;
-  border-top: 0.1em dashed #fd7e00;
+  border-top: 0.1em dashed #fff;
   font-size: 60%;
   position: absolute;
   bottom: 20px;
