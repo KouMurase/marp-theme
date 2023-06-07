@@ -5,17 +5,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 
 :root {
-  --color-background: #FFFFFF;
-  --color-foreground: #fd7e00;
+  --color-background:#333;
+  --color-foreground:#fff;
   --color-highlight: #fd7e00;
 }
 
 section {
   background-image: none;
   font-family: 'Noto Sans JP', sans-serif;
-  padding-top: 110px;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-top: 90px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 20px;
 }
 
 /* https://github.com/marp-team/marpit/issues/271 */
@@ -76,7 +77,7 @@ header {
 
 blockquote {
   max-width: 90%;
-  border-top: 0.1em dashed #555;
+  border-top: 0.1em dashed #fd7e00;
   font-size: 60%;
   position: absolute;
   bottom: 20px;
