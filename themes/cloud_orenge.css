@@ -6,8 +6,8 @@
 
 :root {
   --color-background:#333;
-  --color-foreground:#fff;
-  --color-highlight: #fd7e00;
+  --color-foreground:#fd7e00;
+  --color-highlight:#fff;
 }
 
 section {
