@@ -16,7 +16,7 @@ section {
   padding-top: 90px;
   padding-left: 30px;
   padding-right: 30px;
-  font-size: 40px;
+  font-size: 20px;
 }
 
 /* https://github.com/marp-team/marpit/issues/271 */
@@ -71,7 +71,7 @@ section.lead p {
 header {
   background-color: #fd7e00;
   color: #fff;
-  font-size: 1em;
+  font-size: 2em;
   font-weight: 700;
 }
 
