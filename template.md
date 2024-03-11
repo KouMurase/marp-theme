@@ -9,7 +9,7 @@ footer: "2022/6/30 岡田研究室ゼミ資料"
 <!-- _class: lead -->
 
 # タイトル
-# 長くなったら折り返せば良い
+# 
 
 <br>
 
@@ -47,9 +47,11 @@ footer: "2022/6/30 岡田研究室ゼミ資料"
 
 **Thor Love and Thunder**がもうすぐ公開ですね! [^1]
 
-[^1]: https://marvel.disney.co.jp/movie/thor-love-and-thunder/about.html
 
-![center height:400px](./figs/story_thor-love-and-thunder_04.jpg)
+<!-- [^1]: https://marvel.disney.co.jp/movie/thor-love-and-thunder/about.html -->
+
+
+<!-- ![center height:400px](./figs/story_thor-love-and-thunder_04.jpg) -->
 
 
 <!-- _footer: . -->
@@ -63,7 +65,7 @@ footer: "2022/6/30 岡田研究室ゼミ資料"
 今回登場するヴィランはバットマンシリーズでお馴染みの
 クリスチャンベイルが演じるみたいです。
 
-![left height:285px](./figs/gorr_the_god_butcher.jpg) ![right height:285px](./figs/maxresdefault.jpg)
+<!-- ![left height:285px](./figs/gorr_the_god_butcher.jpg) ![right height:285px](./figs/maxresdefault.jpg) -->
 
 
 > https://www.youtube.com/watch?v=TAXHwN-ylC4
